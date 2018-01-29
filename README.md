@@ -7,4 +7,4 @@ writeup sederhana bagaimana menyelesaikan box yang ada di hackthebox, password z
 
 Mirai [Download](https://raw.githubusercontent.com/crackatoa/kertasgorengan/master/doc/Mirai.7z)
 
-Need Help? rdj@crackatoa.id
+Need Help? tahu.datar@crackatoa.id
