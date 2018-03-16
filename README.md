@@ -13,4 +13,4 @@ writeup sederhana bagaimana menyelesaikan hackthebox, password 7z bisa ditanyaka
 Need Help? [kue.bola@crackatoa.id](mailto:kue.bola@crackatoa.id)
 
 ### Catatan
-[SSRF wkhtml](https://github.com/crackatoa/kertasgorengan/blob/master/catatan/SSRF%20wkhtml.md)
+[SSRF wkhtmltoimage](https://github.com/crackatoa/kertasgorengan/blob/master/catatan/SSRF%20wkhtml.md)
