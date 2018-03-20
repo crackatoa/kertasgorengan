@@ -6,8 +6,10 @@ cuma kertas lecek yang cocoknya dijadiin kertas gorengan
 writeup sederhana bagaimana menyelesaikan hackthebox, password 7z bisa ditanyakan langsung ke [kue.bola](mailto:kue.bola@crackatoa.id) untuk mengurangi spoiler.
 
 #### password akan dihapus setelah mesin retired
-* Mirai [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Mirai.pdf) retired (no password)
-* Sense [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Sense.7z)
+* Mirai   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Mirai.pdf) retired (no password)
+* Nibbles [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Nibbles.7z)
+* Sense   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Sense.7z)
+
 
 Need Help? [kue.bola@crackatoa.id](mailto:kue.bola@crackatoa.id)
 
