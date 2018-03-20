@@ -3,7 +3,7 @@
 cuma kertas lecek yang cocoknya dijadiin kertas gorengan
 
 ## HackTheBox Series
-writeup sederhana bagaimana menyelesaikan hackthebox, password 7z bisa ditanyakan langsung ke [kue.bola](mailto:kue.bola@crackatoa.id) untuk mengurangi sploiler.
+writeup sederhana bagaimana menyelesaikan hackthebox, password 7z bisa ditanyakan langsung ke [kue.bola](mailto:kue.bola@crackatoa.id) untuk mengurangi spoiler.
 
 #### password akan dihapus setelah mesin retired
 * Mirai [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Mirai.pdf) retired (no password)
