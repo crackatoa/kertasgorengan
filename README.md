@@ -9,6 +9,7 @@ writeup sederhana bagaimana menyelesaikan hackthebox, password 7z bisa ditanyaka
 * Mirai   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Mirai.pdf) retired (no password)
 * Nibbles [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Nibbles.7z)
 * Sense   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Sense.7z)
+* Valentine [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Valentine.7z)
 
 
 Need Help? [kue.bola@crackatoa.id](mailto:kue.bola@crackatoa.id)
