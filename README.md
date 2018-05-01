@@ -11,10 +11,10 @@ Retired (No Password)
 
 * Mirai   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Mirai.pdf)
 * Sense   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Sense.pdf)
+* Bashed  [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Bashed.pdf)
 
 Active
 
-* Bashed [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Bashed.7z)
 * Celestial [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Celestial.7z)
 * Nibbles [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Nibbles.7z)
 * Valentine [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Valentine.7z)
