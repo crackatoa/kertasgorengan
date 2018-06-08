@@ -18,7 +18,7 @@ Active
 * Celestial [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Celestial.7z)
 * Nibbles [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Nibbles.7z)
 * Valentine [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Valentine.7z)
-* Poison
+* Poison [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Poison.7z)
 
 
 
