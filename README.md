@@ -13,13 +13,10 @@ Retired (No Password)
 * Sense   [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Sense.pdf)
 * Bashed  [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Bashed.pdf)
 * Nibbles [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Nibbles.pdf)
-
-Active
-
-* Celestial [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Celestial.7z)
-* Valentine [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Valentine.7z)
-* Poison [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Poison.7z)
-* Canape [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Canape.7z)
+* Celestial [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Celestial.pdf)
+* Valentine [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Valentine.pdf)
+* Poison [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Poison.pdf)
+* Canape [PDF](https://github.com/crackatoa/kertasgorengan/raw/master/doc/Canape.pdf)
 
 
 
